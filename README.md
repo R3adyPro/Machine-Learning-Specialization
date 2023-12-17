@@ -4,7 +4,7 @@
 ### 1. A Case Study Approach
 
 - **Kurssin sisältö:** Kurssilla käsiteltiin regression, classification, clustering, similarity ja deep learning. Kurssin tarkoituksena oli käydä läpi, mihin näitä menetelmiä käytetään, miten ne toimivat, missä ne ovat hyödyllisiä ja tehdä jokaisesta aiheesta yksinkertainen tehätvä.
-- **Opettajat:** Emily Fox: Statistics ja Carlos Guestrin: Computer science and Engineerin
+- **Opettajat:** Emily Fox: Statistics ja Carlos Guestrin: Computer science and Engineering
   
 ### 2. Regression
 
