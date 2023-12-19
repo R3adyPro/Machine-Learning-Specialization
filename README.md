@@ -1,4 +1,4 @@
-# Machine Learning Specialization - University of Washington - Emily Fox ja Carlos
+# Machine Learning Specialization - University of Washington - Emily Fox ja Carlos Guestrin
 ## Kurssit
 
 ### 1. A Case Study Approach
@@ -9,25 +9,24 @@
 ### 2. Regression
 
 - **Kurssin sisältö:** Kurssilla käsiteltiin regression syvemmin. Aiheet jotka Käytiin kurssilla läpi oli:
-
-- **Mallit:**
-  - Simple Regression
-  - Multiple Regression
-  - Ridge Regression
-  - Nearest Neighbor
-  - Kernel Regression
-- **Algoritmit:**
-  - Gradient Descent
-  - Coordinate Descent
-- **Konseptit:**
-  - Loss functions
-  - Bias-variance tradeoff
-  - Cross-validation
-  - Sparsity
-  - Overfitting
-  - Model selection
-  - Feature selection
-- **Opettajat:** Emily Fox: Statistics ja Carlos Guestrin: Computer science and Engineerin
+  - **Mallit:**
+    - Simple Regression
+    - Multiple Regression
+    - Ridge Regression
+    - Nearest Neighbor
+    - Kernel Regression
+  - **Algoritmit:**
+    - Gradient Descent
+    - Coordinate Descent
+  - **Konseptit:**
+    - Loss functions
+    - Bias-variance tradeoff
+    - Cross-validation
+    - Sparsity
+    - Overfitting
+    - Model selection
+    - Feature selection
+- **Opettajat:** Emily Fox: Statistics ja Carlos Guestrin: Computer science and Engineering
 
 ### 3. [Course 3 Title]
 
